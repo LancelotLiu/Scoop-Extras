@@ -6,11 +6,11 @@
     "architecture": {
         "64bit": {
             "url": "http://downloads.sourceforge.net/project/wxmedit/3.2/wxMEdit-3.2-win64-bin.zip",
-            "hash": "b43b1dfa2dc5d4a5b7e2f039b64c2a1e7e9c6ad9f02f8ff3e2f8bf3f93712342"
+            "hash": "4b005d6f787bb4e5b189f203751b56bcb45ce572859c7b53b9b9e62b56c7d35c"
         },
         "32bit": {
             "url": "http://downloads.sourceforge.net/project/wxmedit/3.2/wxMEdit-3.2-win32-bin.zip",
-            "hash": "7349ce13a2cda75e16ae4e3488954d1e6e8e1c5d5a45eeaaa50250ce54121226"
+            "hash": "b07a993888f66f377ae85c7ba84559fc18da97b11fba21df949ecd9db5911658"
         }
     },
     "extract_dir": "wxMEdit",
