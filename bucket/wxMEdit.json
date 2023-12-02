@@ -20,15 +20,6 @@
             "wxMEdit"
         ]
     ],
-    "post_install": [
-        "info '[Portable Mode] Configuring profiles directory...'",
-        "'{ \"path\" : \".\" }' | Set-Content -Path \"$dir\\profiles.config\"",
-        "if (!(Test-Path \"$dir\\.wind\\profiles\") -and (Test-Path \"$persist_dir\\profiles\")) {",
-        "    info '[Portable Mode] Copying existing profiles...'",
-        "    Copy-Item \"$persist_dir\\profiles\" \"$dir\\.wind\" -Recurse",
-        "}"
-    ],
-    "persist": ".wind",
     "checkver": {
         "github": "http://downloads.sourceforge.net/project/wxmedit"
     },
