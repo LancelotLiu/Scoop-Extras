@@ -1,5 +1,5 @@
 {
-    "version": "2.6.0_Prerelease_5",
+    "version": "2.6.0_Prerelease_7",
     "folder": "2.6.0-prerelease",
     "mainver": "2.6.0",
     "description": "SSH/Sftp/Shell/Telnet/Serial client",
@@ -10,7 +10,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kingToolbox/WindTerm/releases/download/2.6-prerelease/WindTerm_2.6.0_Prerelease_5_Windows_Portable_x86_64.zip",
+            "url": "https://github.com/kingToolbox/WindTerm/releases/download/2.6-prerelease/WindTerm_2.6.0_Prerelease_7_Windows_Portable_x86_64.zip",
             "hash": "557b218cedd3fa5e1b697fae391fdf1935aebd65cb1cd65752b4624296684244"
         }
     },
